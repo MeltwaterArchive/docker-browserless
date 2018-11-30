@@ -5,7 +5,6 @@
 [![Docker Build Status](https://img.shields.io/docker/build/meltwater/browserless.svg)](https://hub.docker.com/r/meltwater/browserless/)
 
 Custom Docker build of [Browserless].
-Runs as non-root user `browserless`.
 
 [Browserless]: https://www.browserless.io/
 
