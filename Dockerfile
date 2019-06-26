@@ -1,1 +1,1 @@
-FROM browserless/chrome:release-puppeteer-1.11.0
+FROM browserless/1.10.0-puppeteer-1.15.0
